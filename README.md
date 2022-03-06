@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kourosh</h1>
 <h3 align="center">White hat hacker at private company</h3>
 
-<div style="text-align: right;">
+<center>
   <img src="https://i.pinimg.com/originals/d5/34/05/d53405ec19c25a96bcb2b68d34e9ce3b.gif">
-<img src="https://komarev.com/ghpvc/?username=thegray613&label=Profile%20views&color=0e75b6&style=flat" alt="thegray613" />
-</div> 
+  <img src="https://komarev.com/ghpvc/?username=thegray613&label=Profile%20views&color=0e75b6&style=flat" alt="thegray613" />
+</center> 
 - 🔭 I’m currently working on **C# Project**
 
 - 🌱 I’m currently learning **.net and py**
