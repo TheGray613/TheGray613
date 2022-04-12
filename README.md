@@ -15,8 +15,6 @@
 
   - 📫 How to reach me **kourosh.7366@gmail.com**
 
-  - ⚡ Fun fact **I'm gamer!Red dead and fifa and lords moblie on phone**
-
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   </p>
