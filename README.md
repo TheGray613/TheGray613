@@ -3,7 +3,7 @@
   <h3 align="center">White hat hacker at private company</h3>
 
   <p align="center">
-    <img width="900" height="400" src="https://i.pinimg.com/originals/d5/34/05/d53405ec19c25a96bcb2b68d34e9ce3b.gif">
+    <img width="800" height="400" src="https://i.pinimg.com/originals/d5/34/05/d53405ec19c25a96bcb2b68d34e9ce3b.gif">
     <img src="https://komarev.com/ghpvc/?username=thegray613&label=Profile%20views&color=0e75b6&style=flat" alt="thegray613" />
   </p>
   
